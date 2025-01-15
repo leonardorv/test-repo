@@ -1,7 +1,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório usado durante o curso da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
@@ -45,6 +45,7 @@ ChaGpt (imagens)：
 
 ## 📚 Materiais
 
-- ebook gerado durante  `output`
+- ebook gerado durante gerado
+  "Repensando o Amor sob o olhar de Carrie Jenkins" é uma jornada reflexiva sobre o que realmente significa amar e ser amado no século XXI. Inspirado pelas ideias instigantes de Jenkins, este eBook questiona crenças arraigadas sobre o amor, destacando sua natureza cultural e biológica. Exploramos como a busca por sentido no amor pode transformar relacionamentos e ajudamos você a aplicar esses conceitos na prática. Combinando filosofia, ciência e ferramentas práticas, este guia é ideal para homens e mulheres acima dos 30 anos que desejam transformar frustrações amorosas em crescimento e conexões autênticas.  
 
 [repensandooamor_compressed.pdf](https://github.com/user-attachments/files/18431529/repensandooamor_compressed.pdf)
